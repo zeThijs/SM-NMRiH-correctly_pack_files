@@ -11,3 +11,5 @@ to use: generate a packfile list by doing a fast compile in compilepal, with pac
 Do a full compile of your map without packing
 In bash, use: ./packfiles.sh <path/mapname.bsp>
 
+
+This script assumes all your custom files are in the /nmrih/nmrih/ folder
